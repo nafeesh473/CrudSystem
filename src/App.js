@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Header from "./componants/shared/Header";
+import AllRoutes from './AllRoutes/AllRoutes'
+import Footer from "./componants/shared/Footer";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <> 
+  <Header/>
+   <div className="container" style={{ minHeight : "700px"}}>
+  <AllRoutes/>
+     </div>  
+  
+  <Footer/>
+
+    
+    </>
   );
 }
 

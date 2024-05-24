@@ -1,0 +1,46 @@
+{
+  "teacher": [
+    {
+      "id": "d0b9",
+      "name": "amir Kurreshi",
+      "fee": "4500/-",
+      "gender": "male",
+      "address": "Kailaras"
+    },
+    {
+      "id": "e6e2",
+      "name": "yaman Khan",
+      "fee": "2000/-",
+      "gender": "female",
+      "address": "Palasia Indore"
+    },
+    {
+      "id": "f899",
+      "name": "zoyan",
+      "fee": "8000/-",
+      "gender": "male",
+      "address": "kailaras"
+    },
+    {
+      "id": "8f4a",
+      "name": "Nafeesh",
+      "fee": "456789",
+      "gender": "male",
+      "address": "kailaras dist morena madhya pradesh"
+    },
+    {
+      "id": "c3c9",
+      "name": "Pakiza Green",
+      "fee": "55000/-",
+      "gender": "male",
+      "address": "Khajrana Indore"
+    },
+    {
+      "id": "9bfd",
+      "name": "Kamran Kurreshi",
+      "fee": "33000/-",
+      "gender": "female",
+      "address": "Indore"
+    }
+  ]
+}
